@@ -1,0 +1,25 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0268. Missing Number
+//  URL      : https://leetcode.com/problems/missing-number/submissions/2049908666/
+//  Difficulty : Easy
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 47.4 MB
+//  Solved   : June 29, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int missingNumber(int[] nums) {
+        int n=nums.length;
+        boolean present[]=new boolean [n+1];
+        for(int i=0;i<n;i++){
+            present[nums[i]]=true;
+        }
+        for(int i=0;i<=n;i++){
+            if(!present[i]){
+                return i;
+            }
+        }
+        return -1;
+    }
+}
