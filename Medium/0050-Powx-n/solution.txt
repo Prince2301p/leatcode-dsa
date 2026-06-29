@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0050. Pow(x, n)
+//  URL      : https://leetcode.com/problems/powx-n/submissions/2050025749/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : June 29, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public double myPow(double x, int n) {
+        return Math.pow(x,n);
+    }
+}
