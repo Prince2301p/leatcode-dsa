@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-8-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-7-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-9-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-8-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-1-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -18,7 +18,8 @@
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/submissions/2050025355/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2050025658/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2050025909/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/submissions/2050026061/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/2050023077/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 
 ---
-*Last updated: Mon, 29 Jun 2026 12:08:52 GMT*
+*Last updated: Mon, 29 Jun 2026 12:09:03 GMT*
