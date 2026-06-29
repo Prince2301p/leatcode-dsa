@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0268. Missing Number
-//  URL      : https://leetcode.com/problems/missing-number/submissions/2049907066/
+//  URL      : https://leetcode.com/problems/missing-number/submissions/2049908666/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : June 29, 2026
