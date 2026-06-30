@@ -1,0 +1,26 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0414. Third Maximum Number
+//  URL      : https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array
+//  Difficulty : Easy
+//  Language : Java
+//  Runtime  : 1 ms
+//  Memory   : 42.8 MB
+//  Solved   : June 30, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int thirdMax(int[] nums) {
+        Arrays.sort(nums);
+        int max=nums[nums.length-1];
+        int count=1;
+        for(int i=nums.length-2;i>0;i--){
+            if(nums[i] != nums[i+1]){
+                count++;
+            }
+            if(count==3){
+                return nums[i];
+            }
+        }
+        return max;
+    }
+}
