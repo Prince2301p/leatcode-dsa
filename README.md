@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-11-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-9-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-12-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-10-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-2-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -19,9 +19,10 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/submissions/2049908666/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/submissions/2049908666/) | 🟢 Easy | `Java` | Jun 29, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `Java` | Jun 30, 2026 |
+| 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `chooseatype` | Jun 30, 2026 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/submissions/2049904112/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/2049905476/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2049904838/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 
 ---
-*Last updated: Tue, 30 Jun 2026 09:47:14 GMT*
+*Last updated: Tue, 30 Jun 2026 09:47:40 GMT*
