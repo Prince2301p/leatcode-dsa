@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-13-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-14-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-10-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-3-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-4-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -19,6 +19,7 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/submissions/2049908666/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/submissions/2049908666/) | 🟢 Easy | `Java` | Jun 29, 2026 |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=array) | 🟡 Medium | `Java` | Jun 30, 2026 |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=array) | 🟡 Medium | `chooseatype` | Jun 30, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `Java` | Jun 30, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `chooseatype` | Jun 30, 2026 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/submissions/2049904112/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
@@ -26,4 +27,4 @@
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2049904838/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 
 ---
-*Last updated: Tue, 30 Jun 2026 09:54:01 GMT*
+*Last updated: Tue, 30 Jun 2026 09:55:12 GMT*
