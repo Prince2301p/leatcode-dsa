@@ -1,18 +1,28 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0415. Add Strings
-//  URL      : https://leetcode.com/problems/add-strings/?envType=problem-list-v2&envId=string
+//  URL      : https://leetcode.com/problems/add-strings/submissions/2053346414/?envType=problem-list-v2&envId=string
 //  Difficulty : Easy
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.9 MB
+//  Runtime  : 8 ms
+//  Memory   : 47.2 MB
 //  Solved   : July 2, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public String addStrings(String num1, String num2) {
-        Long a=Long.parseLong(num1);
-        Long b=Long.parseLong(num2);
-        Long c=a+b;
-        return String.valueOf(c);
+        int i = num1.length() - 1, j = num2.length() - 1, carry = 0;
+        String ans = "";
+
+        while (i >= 0 || j >= 0 || carry > 0) {
+            int sum = carry;
+
+            if (i >= 0) sum += num1.charAt(i--) - '0';
+            if (j >= 0) sum += num2.charAt(j--) - '0';
+
+            ans = (sum % 10) + ans;
+            carry = sum / 10;
+        }
+
+        return ans;
     }
 }
