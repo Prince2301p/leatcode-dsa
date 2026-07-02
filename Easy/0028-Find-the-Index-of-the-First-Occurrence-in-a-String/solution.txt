@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0028. Find the Index of the First Occurrence in a String
-//  URL      : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2053303406/?envType=problem-list-v2&envId=string
+//  URL      : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2053307241/?envType=problem-list-v2&envId=string
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : July 2, 2026
@@ -8,18 +8,22 @@
 
 class Solution {
     public int strStr(String haystack, String needle) {
-        int n =haystack.length();
-        int m= needle.length();
-        for(int i=0;i<=0;i++){
-            int j=0;
-            while(j<m && haystack.charAt(i+j)==needle.charAt(j)){
+        int n = haystack.length();
+        int m = needle.length();
+
+        for (int i = 0; i <= n - m; i++) {
+            int j = 0;
+
+            while (j < m &&
+                   haystack.charAt(i + j) == needle.charAt(j)) {
                 j++;
             }
-            if(j==m){
+
+            if (j == m) {
                 return i;
             }
         }
-        return -1;
 
+        return -1;
     }
 }
