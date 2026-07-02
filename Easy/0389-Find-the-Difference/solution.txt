@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0389. Find the Difference
-//  URL      : https://leetcode.com/problems/find-the-difference/?envType=problem-list-v2&envId=string
+//  URL      : https://leetcode.com/problems/find-the-difference/submissions/2053332465/?envType=problem-list-v2&envId=string
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : July 2, 2026
@@ -19,7 +19,7 @@ class Solution {
         
         if(count[idx]<0){
             return t.charAt(i);
-        }
+         }
         }
         return ' ';
     }
