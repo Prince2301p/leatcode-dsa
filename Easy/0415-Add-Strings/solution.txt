@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0415. Add Strings
-//  URL      : https://leetcode.com/problems/add-strings/?envType=problem-list-v2&envId=string
+//  URL      : https://leetcode.com/problems/add-strings/description/?envType=problem-list-v2&envId=string
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : July 2, 2026
@@ -8,9 +8,9 @@
 
 class Solution {
     public String addStrings(String num1, String num2) {
-        int a=Integer.parseInt(num1);
-        int b=Integer.parseInt(num2);
-        int c=a+b;
+        Long a=Long.parseLong(num1);
+        Long b=Long.parseLong(num2);
+        Long c=a+b;
         return String.valueOf(c);
     }
 }
