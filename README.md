@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-21-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-17-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-22-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-18-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-4-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -27,6 +27,7 @@
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/?envType=problem-list-v2&envId=string) | 🟢 Easy | `chooseatype` | Jul 1, 2026 |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/?envType=problem-list-v2&envId=string) | 🟢 Easy | `Java` | Jul 1, 2026 |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/?envType=problem-list-v2&envId=string) | 🟢 Easy | `chooseatype` | Jul 2, 2026 |
+| 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/submissions/2053332465/?envType=problem-list-v2&envId=string) | 🟢 Easy | `Java` | Jul 2, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `Java` | Jun 30, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `chooseatype` | Jun 30, 2026 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/submissions/2049904112/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
@@ -34,4 +35,4 @@
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2049904838/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 
 ---
-*Last updated: Thu, 02 Jul 2026 09:32:13 GMT*
+*Last updated: Thu, 02 Jul 2026 09:32:29 GMT*
