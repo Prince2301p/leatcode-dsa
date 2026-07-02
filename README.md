@@ -14,7 +14,7 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2049899310/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/?envType=problem-list-v2&envId=array) | 🟡 Medium | `chooseatype` | Jun 30, 2026 |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=problem-list-v2&envId=string) | 🟢 Easy | `Java` | Jul 2, 2026 |
-| 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=problem-list-v2&envId=string) | 🟢 Easy | `chooseatype` | Jul 2, 2026 |
+| 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2053303406/?envType=problem-list-v2&envId=string) | 🟢 Easy | `chooseatype` | Jul 2, 2026 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `chooseatype` | Jun 30, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=problem-list-v2&envId=array) | 🟡 Medium | `chooseatype` | Jun 30, 2026 |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/2049906472/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
@@ -33,4 +33,4 @@
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2049904838/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 
 ---
-*Last updated: Thu, 02 Jul 2026 09:07:58 GMT*
+*Last updated: Thu, 02 Jul 2026 09:08:13 GMT*
