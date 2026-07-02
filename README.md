@@ -31,10 +31,10 @@
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `Java` | Jun 30, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `chooseatype` | Jun 30, 2026 |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/description/?envType=problem-list-v2&envId=string) | 🟢 Easy | `chooseatype` | Jul 2, 2026 |
-| 0415 | [Add Strings](https://leetcode.com/problems/add-strings/?envType=problem-list-v2&envId=string) | 🟢 Easy | `Java` | Jul 2, 2026 |
+| 0415 | [Add Strings](https://leetcode.com/problems/add-strings/submissions/2053346414/?envType=problem-list-v2&envId=string) | 🟢 Easy | `Java` | Jul 2, 2026 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/submissions/2049904112/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/2049905476/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2049904838/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 
 ---
-*Last updated: Thu, 02 Jul 2026 09:43:18 GMT*
+*Last updated: Thu, 02 Jul 2026 09:45:09 GMT*
