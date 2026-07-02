@@ -4,24 +4,28 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.5 MB
+//  Memory   : 42.9 MB
 //  Solved   : July 2, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public int strStr(String haystack, String needle) {
-        int n =haystack.length();
-        int m= needle.length();
-        for(int i=0;i<=0;i++){
-            int j=0;
-            while(j<m && haystack.charAt(i+j)==needle.charAt(j)){
+        int n = haystack.length();
+        int m = needle.length();
+
+        for (int i = 0; i <= n - m; i++) {
+            int j = 0;
+
+            while (j < m &&
+                   haystack.charAt(i + j) == needle.charAt(j)) {
                 j++;
             }
-            if(j==m){
+
+            if (j == m) {
                 return i;
             }
         }
-        return -1;
 
+        return -1;
     }
 }
